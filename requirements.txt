@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+requests
+beautifulsoup4
+vaderSentiment
+textblob
+geopy
+python-dotenv
+instaloader
+lxml
