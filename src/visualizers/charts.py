@@ -27,3 +27,4 @@ def create_gauge(value, title, min_val=0, max_val=100, reverse=False):
     ))
     fig.update_layout(paper_bgcolor="#0A0E17", font={'color': "white"}, height=200)
     return fig
+    
