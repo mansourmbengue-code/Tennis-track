@@ -121,3 +121,4 @@ with tab2:
         st.metric("📰 Articles récents", f"{data_a['news']['article_count']}", f"{data_b['news']['article_count']} pour {player_b}")
     with col_final3:
         st.metric("📱 Sentiment Instagram Moyen", f"{data_a['instagram']['avg_sentiment']:.2f}", f"{data_b['instagram']['avg_sentiment']:.2f} pour {player_b}")
+        
